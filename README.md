@@ -1,2 +1,5 @@
 # hello_world
-first repository! 
+First repository! 
+
+Greetings earthlings from a secret galaxy, light years away!
+Show me to your best pizza food, and we will get along humanoid speciman.
